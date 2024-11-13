@@ -238,7 +238,7 @@ const projects = [
     ],
     image: movie,
     repo: 'https://github.com/mashadesignworld/watch',
-    demo: 'https://movie-metro.netlify.app/',
+    demo: 'https://freekenya.co.ke',
   },
   {
     id: 'project-5',
